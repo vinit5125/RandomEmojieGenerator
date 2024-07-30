@@ -15,8 +15,8 @@ body{
    border-radius: 8px;
    text-align: center;
 }
-#emojiDisplay{
-    margin-left: 10px;
+#emoji{
+    margin-left: 30px;
     font-size: xx-large;
 
 }
